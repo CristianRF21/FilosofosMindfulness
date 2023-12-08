@@ -2,7 +2,7 @@
 //  FilosofosMindfulnessApp.swift
 //  FilosofosMindfulness
 //
-//  Created by Cristian Ramirez on 12/5/23.
+//  Created by Cristian Ramirez on 11/24/23.
 //
 
 import SwiftUI
