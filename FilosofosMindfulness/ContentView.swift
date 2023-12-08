@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  FilosoficosMindfulness
+//  FilosofosMindfulness
 //
 //  Created by Cristian Ramirez on 11/24/23.
 //
