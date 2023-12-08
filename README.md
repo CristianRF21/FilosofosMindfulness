@@ -7,16 +7,11 @@
 
 
 // Table of contents
-<p>The app is divided into two main parts. The first page when the app is opened is the tit
+<p>The app is divided into two main parts. The first page when the app is opened is the title and a symbol in hebrew called the chai that means to be alive. In the first page you'll also find a button at the bottom of the page. When the button is clicked it will take you to the homepage/bio of the app. In the home section of the app there is some information about the app such as what it's about and what the hope is for the user's through this platform. I created this app to help users who are struggling with mental health so that in this platform </p>
+<li>Home</li>
+ <li>Daily Quotes</li>
+<li>Timer</li>
+<li>Support</li>
 
--Title page
--Tabs
-	<li> Home</li>
-  <li> Daily Quotes</li>
-	<li> Home</li>
-  <li> Home</li>
- 	- Daily Quotes
-	- Timer
- 	- Support
+//Tabs
 
- 
